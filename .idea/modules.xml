@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BT-Factory Method/BT-Factory Method.iml" filepath="$PROJECT_DIR$/BT-Factory Method/BT-Factory Method.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-FactoryMethod/TH-FactoryMethod.iml" filepath="$PROJECT_DIR$/TH-FactoryMethod/TH-FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-TrienkhaiSingleton/TH-TrienkhaiSingleton.iml" filepath="$PROJECT_DIR$/TH-TrienkhaiSingleton/TH-TrienkhaiSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2week5-(Design Patterns).iml" filepath="$PROJECT_DIR$/module2week5-(Design Patterns).iml" />
